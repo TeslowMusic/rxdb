@@ -12,14 +12,14 @@
     "babel-polyfill": "6.26.0",
     "babel-runtime": "6.26.0",
     "concurrently": "5.3.0",
-    "electron": "8.5.1",
+    "electron": "19.1.5",
     "electron-tabs": "0.15.0",
     "electron-window-manager": "1.0.6",
     "melanke-watchjs": "1.5.2",
-    "pouchdb-adapter-http": "7.2.2",
+    "pouchdb-adapter-http": "7.3.0",
     "pouchdb-adapter-websql": "7.0.0",
     "pouchdb-replication": "7.2.2",
-    "rxdb": "file:rxdb-local.tgz",
+    "rxdb": "12.5.0",
     "rxjs": "6.6.3"
   },
   "devDependencies": {
