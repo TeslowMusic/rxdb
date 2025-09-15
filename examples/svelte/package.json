@@ -28,6 +28,6 @@
     "testcafe": "1.18.4"
   },
   "dependencies": {
-    "sirv-cli": "1.0.14"
+    "sirv-cli": "3.0.0"
   }
 }
